@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Splashy_Bouncing/Scenes/Gameplay.unity
+    guid: d3937f116ad5e984683593135a66b9ff
+  - enabled: 1
+    path: Assets/Splashy_Bouncing/Scenes/Character.unity
+    guid: 49b2bc1180b71dc4987e9d6fc853f3c6
